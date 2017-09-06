@@ -1,5 +1,5 @@
 env
-
+*.DS_Store
 markdown_to_oscmp_js
 markdown_to_oscmp_py
 __pycache__
